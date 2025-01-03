@@ -7,7 +7,7 @@ import pyttsx3
 root = customtkinter.CTk()
 root.geometry("900x600")
 root.resizable(False, False)
-root.title("Neura.AI")
+root.title("GenTex")
 
 customtkinter.set_appearance_mode("Dark")
 customtkinter.set_default_color_theme("blue")
